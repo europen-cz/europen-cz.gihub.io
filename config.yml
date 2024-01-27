@@ -11,10 +11,10 @@ menus:
       url: "https://www.europen.cz/"
     - name: Účastník
       weight: 20
-      pageRef: /
+      url: "/#td-block-2"
     - name: Přednášející
       weight: 30
-      pageRef: /
+      url: "/#td-block-3"
     - name: About
       weight: 40
       pageRef: /about
