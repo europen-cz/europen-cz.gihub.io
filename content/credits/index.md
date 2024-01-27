@@ -1,0 +1,1 @@
+Autor: © Milan Nykodym, Czech Republic, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=29093978">Odkaz</a>

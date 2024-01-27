@@ -1,0 +1,65 @@
+baseURL: "https://56.europen.cz/"
+languageCode: cs-CZ
+title: Jarní konference EurOpen.CZ 2024
+description: 56. konference EurOpen.cz 20.-22. května 2024 Kutná Hora
+author: Jiří Sitera
+
+menus:
+  main:
+    - name: EurOpen.CZ
+      weight: 10
+      url: "https://www.europen.cz/"
+    - name: Účastník
+      weight: 20
+      pageRef: /
+    - name: Přednášející
+      weight: 30
+      pageRef: /
+    - name: About
+      weight: 40
+      pageRef: /about
+
+params:
+  subtitle: 56. konference EurOpen.cz 20.-22. května 2024 Kutná Hora
+  ui:
+    footer_about_disable: false
+    navbar_logo: false
+  links:
+    user:
+      - name: Facebook
+        url: 'https://www.facebook.com/groups/199751946725860/'
+        icon: fab fa-facebook
+        desc: EurOpen.CZ Facebook group and page
+      - name: LinkedIn
+        url: 'https://www.linkedin.com/groups/81933'
+        icon: fab fa-linkedin
+        desc: EurOpen.CZ LinkedIn profile
+      - name: Elektronická konference
+        url: 'https://groups.google.com/forum/embed/?place=forum/europen-cz'
+        icon: fa fa-envelope
+        desc: Elektronická konference členů a podporovatelů
+    developer:
+      - name: Kontaktní e-mail adresa
+        url: 'mailto:europen@europen.cz'
+        icon: fa fa-envelope
+        desc: Hlavní kontakt EurOpen.CZ
+
+
+module:
+  proxy: direct
+  hugoVersion:
+    extended: true
+    min: 0.73.0
+  imports:
+    - path: github.com/google/docsy
+      disable: false
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+    renderer:
+      unsafe: true
+  highlight:
+    style: tango
