@@ -26,20 +26,24 @@ params:
     navbar_logo: false
   links:
     user:
-      - name: Facebook
+      - name: Facebooková skupina
         url: 'https://www.facebook.com/groups/199751946725860/'
         icon: fab fa-facebook
         desc: EurOpen.CZ Facebook group and page
-      - name: LinkedIn
+      - name: LinkedIn skupina
         url: 'https://www.linkedin.com/groups/81933'
         icon: fab fa-linkedin
         desc: EurOpen.CZ LinkedIn profile
-      - name: Elektronická konference
+      - name: Elektronická konference komunity
         url: 'https://groups.google.com/forum/embed/?place=forum/europen-cz'
         icon: fa fa-envelope
         desc: Elektronická konference členů a podporovatelů
     developer:
-      - name: Kontaktní e-mail adresa
+      - name: EurOpen.CZ GitHub profil
+        url: 'https://github.com/europen-cz'
+        icon: fab fa-github
+        desc: GitHub organizace
+      - name: Kontaktní e-mail sdružení
         url: 'mailto:europen@europen.cz'
         icon: fa fa-envelope
         desc: Hlavní kontakt EurOpen.CZ
