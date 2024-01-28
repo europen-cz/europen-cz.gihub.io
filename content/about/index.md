@@ -13,7 +13,7 @@ Název [EurOpen](https://www.europen.cz/) je složen ze slov  **evropský** a **
 ## Technická realizace stránek
 Tyto webová stránky je vytvořené pomocí statického generátoru webů [HUGO](https://gohugo.io) s použitím tématu [Docsy](https://www.docsy.dev/) a prvků toolboxu [Bootstrap](https://getbootstrap.com/).
 
-Zdrojové kódy jsou na githubu, kde lze zároveň komentovat nebo přímo navrhovat editace. [Zdrojové kódy 56.europen.cz](https://github.com/europen-cz/europen-cz.gihub.io).
+[Zdrojové kódy](https://github.com/europen-cz/europen-cz.gihub.io) jsou na githubu, kde lze zároveň komentovat nebo přímo navrhovat editace. Případně je možno kontaktovat autora ([Jiří Sitera](https://siterovi.cz/jiri/)), či využít kontaktů na EurOpen.CZ viz ikony v zápatí stránky. TODO list je zatím [zde](https://siterovi.cz/news/europen.cz/).
 
 ## Credits
 [Pozadí této stránky](https://commons.wikimedia.org/w/index.php?curid=29093978) autor: © Milan Nykodym, Czech Republic, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>.
