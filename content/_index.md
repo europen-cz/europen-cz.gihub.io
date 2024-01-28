@@ -21,7 +21,10 @@ Konference proběhne od pondělí 20. května do středy 22. května 2024 v [Hot
 {{% blocks/section %}}
 Jak se přihlásit na konferenci
 {.h1}
-Aktuálně probíhá příprava konference. Následně bude připravena pozvánka a otevřena přihláška.
+Aktuálně probíhá příprava konference. Následně bude zveřejněna pozvánka a otevřena přihláška. Zatím se můžete podívat jak vypadá pozvánka a program konference v našem [archivu konferencí](https://www.europen.cz/konference), například z [jarní konference 2023](https://europen.zcu.cz/Anot/55/55poz.pdf). Plánovaný formát konference:
+- Pondělí přednáškové bloky od 9 do 17h, poté večeře a večerní (netechnická) přednáška.
+- Úterý přednáškový blok od 9 do 13h, poté oběd a následuje práce v sekcích.
+- Středa dopoledne tutorial (tentokrát plánujeme exkurzi).
 {{% /blocks/section %}}
 {{% blocks/section %}}
 Jak se přihlásit jako přednášející
