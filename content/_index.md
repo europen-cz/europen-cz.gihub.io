@@ -34,7 +34,7 @@ Pro konferenci hledáme příspěvky zaměřené na výměnu zkušeností a in
 - *Interaktivní prostředí typu Jupyter Notebooks*, živé výpočetní prostředí, GPU computing, otevřenost, přenositelnost, opakovatelnost, Open Science.
 - *Soft skills*, inženýrská psychologie, interakce se zákazníky (dotazníky, sociální sítě), interakce týmů.
 - *Energetické aspekty profesního i soukromého života*, home automation, soběstačnost, elektromobilita, green computing, IoT zařízení a jejich využití.
-- *Kyberbezpečnost*, nástroje pro provozní bezpečnost, novinky z oblasti, nové požadavky a regulace).
+- *Kyberbezpečnost*, nástroje pro provozní bezpečnost, novinky z oblasti, nové požadavky a regulace.
 
 Vítáme pomoc s organizací konfrence, můžete přijít s vlastním tématem či s návrhem na tématickou sekci.
 
