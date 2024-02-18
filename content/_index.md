@@ -25,7 +25,6 @@ Aktuálně probíhá příprava programu konference, připravovaná témata uvid
 - **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je možno přijet v neděli večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
 - **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí (Kutná Hora nabízí velmi zajímavé odpoledne, od roku 1995 je [zapsána na seznamu UNESCO](https://www.unesco-czech.cz/kutna-hora/predstaveni/))
 - **Středa** dopoledne tutorial (tentokrát plánujeme *exkurzi do výrobního závodu superpočítačů HPE*).
-
 {{% /blocks/section %}}
 {{% blocks/section %}}
 Jak se přihlásit jako přednášející
@@ -40,3 +39,9 @@ Vítáme pomoc s organizací konfrence, můžete přijít s vlastním tématem 
 
 Návrhy příspěvků (abstrakt do poloviny strany) či nabídky pomoci s organizací zasílejte prosím **do 15. března 2024** na email europen@europen.cz.
 {{% /blocks/section %}}
+
+<!-- your comment text Nested shortcodes with % notation interpret indentation - pre/code block shows up here  -->
+<!-- https://github.com/gohugoio/hugo/issues/11272  -->
+{{< blocks/section color="white" >}}
+{{% bs/accordion data="main.faq"%}}
+{{< /blocks/section >}}

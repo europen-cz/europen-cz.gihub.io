@@ -1,0 +1,24 @@
+kontakt:
+  weight: 1
+  title: Jaký je kontakt na organizátory konference?
+  content: "Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň, telefon 377 632 804, email europen@europen.cz, ostatní kontaktu jsou v patičce této stránky."
+prubeh:
+  weight: 2
+  title: Jak probíhá konference, co mohu očekávat?
+  content: Asi nejlepším způsobem získání představy je projít si [pozvánku z poslední konference](https://europen.zcu.cz/Anot/55/55poz.pdf). Obsahuje popis jednotlivých přednášek, přednášejících i organizační informace. Důležitý je také úvodník. Může te si také projtí sekci [proběhlé konference a jejich program](https://www.europen.cz/konference).
+cena:
+  weight: 3
+  title: Jaká je cena konference?
+  content: Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné na konferenci bez tutorialu je zhruba 2500 Kč.
+tutorial:
+  weight: 4
+  title: Co je to tutorial?
+  content: Tutorial je prakticky orientovaná část konference na konkrétní téma, která trvá typicky 3-4 hodiny. Počet účastníků je omezen, je třeba se samostatně přihlásit. Tutorial má vlastní vložné (zhruba 700 Kč).
+zkraceni:
+  weight: 5
+  title: Lze se přihlásit pouze na jeden den?
+  content: Ne, přihláška na konferenci je jen jedna zahrnující oba dny.
+podminky:
+  weight: 6
+  title: Jaké jsou podmínky pro přednášející?
+  content: Přednášející má nárok na honorář ve výši 2500 Kč před zdaněním. Rozsah přednášky je 30-50 minut.
