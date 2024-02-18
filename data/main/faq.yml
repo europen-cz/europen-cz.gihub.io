@@ -1,11 +1,11 @@
 kontakt:
   weight: 1
   title: Jaký je kontakt na organizátory konference?
-  content: "Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň, telefon 377 632 804, email europen@europen.cz, ostatní kontaktu jsou v patičce této stránky."
+  content: "Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň, telefon 377 632 804, email europen@europen.cz, ostatní kontakty jsou v patičce této stránky."
 prubeh:
   weight: 2
   title: Jak probíhá konference, co mohu očekávat?
-  content: Asi nejlepším způsobem získání představy je projít si [pozvánku z poslední konference](https://europen.zcu.cz/Anot/55/55poz.pdf). Obsahuje popis jednotlivých přednášek, přednášejících i organizační informace. Důležitý je také úvodník. Může te si také projtí sekci [proběhlé konference a jejich program](https://www.europen.cz/konference).
+  content: Asi nejlepším způsobem získání představy je projít si [pozvánku z poslední konference](https://europen.zcu.cz/Anot/55/55poz.pdf). Obsahuje popis jednotlivých přednášek, přednášejících i organizační informace. Důležitý je také úvodník. Může te si také projít sekci [proběhlé konference a jejich program](https://www.europen.cz/konference).
 cena:
   weight: 3
   title: Jaká je cena konference?
