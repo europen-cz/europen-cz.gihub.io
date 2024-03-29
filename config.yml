@@ -36,7 +36,7 @@ params:
         icon: fab fa-linkedin
         desc: EurOpen.CZ LinkedIn profile
       - name: Elektronická konference komunity
-        url: 'https://groups.google.com/forum/embed/?place=forum/europen-cz'
+        url: 'https://groups.google.com/g/europen-cz'
         icon: fa fa-envelope
         desc: Elektronická konference členů a podporovatelů
     developer:
