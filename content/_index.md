@@ -26,15 +26,15 @@ Jak se přihlásit na konferenci
 **V brzké době bude zveřejněna pozvánka a otevřena přihláška.**
 
 Struktura připraveného programu:
-- *Interaktivní prostředí typu Jupyter Notebooks*, živé výpočetní prostředí, GPU computing, otevřenost, přenositelnost, opakovatelnost, Open Science. Základní představení Jupyter notebooků a popis konkrétních využití v praxi (kyberbezpečnost, výpočetní chemie a vědecké workflow).
-- *Soft skills*, inženýrská psychologie, interakce se zákazníky, interakce týmů, využití ICT v náročném prostředí, vyhledávání plagiátů.
-- *Energetické aspekty profesního i soukromého života*, home automation, soběstačnost, elektromobilita, green computing, IoT zařízení a jejich využití.
-- *Kyberbezpečnost*, přehled novinek za poslední rok, poznatky o reálných útocích a rozsáhlých útočných aktivitách.
+- *Interaktivní prostředí typu Jupyter Notebooks*, živé výpočetní prostředí ve formě dokumentu šikovně propojeného s kódem, přístup  k velkému výpočetnímu výkonu, GPU computing, nástroj pro otevřenou vědu, přenositelnost, opakovatelnost, notebook v GIT. Základní představení [Jupyter notebooků](https://jupyter.org/) a popis konkrétních využití v praxi (kyberbezpečnost, výpočetní chemie a vědecké workflow).
+- *Soft skills*, inženýrská psychologie, interakce se zákazníky, interakce týmů, využití ICT v [náročném prostředí jihovýchodní asie](https://cuni.cz/UK-12619.html), [vyhledávání plagiátů](https://odevzdej.cz/).
+- *Energetické aspekty profesního i soukromého života*, home automation ([HA](https://www.home-assistant.io/)), energetická soběstačnost, elektromobilita, [green computing](https://en.wikipedia.org/wiki/Green_computing), open hardware - IoT zařízení typu Arduino, open hardware typu mobilní telefon a notebook.
+- *Kyberbezpečnost*, přehled novinek za poslední rok, zkušenosti z první ruky jak se získávájí poznatky o reálných útocích a rozsáhlých útočných aktivitách.
 
 Formát konference:
 - **Pondělí** *přednáškové bloky od 9 do 17h*, poté večeře a večerní (netechnická) přednáška. Je možno přijet v neděli večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
 - **Úterý** *přednáškový blok od 9 do 13h*, poté oběd a následuje práce v sekcích. Ta je příležitostí pro navazování neformálních kontaktů i *aktivní odpočinek* v okolí (Kutná Hora nabízí velmi zajímavé odpoledne, od roku 1995 je [zapsána na seznamu UNESCO](https://www.unesco-czech.cz/kutna-hora/predstaveni/))
-- **Středa** dopoledne *exkurze do výrobního závodu superpočítačů HPE* (místo tutorialu).
+- **Středa** dopoledne *exkurze do výrobního závodu Foxconn Kutná Hora, kde [HPE vyrábí superpočítače](https://www.hpe.com/us/en/newsroom/press-release/2022/05/hewlett-packard-enterprise-strengthens-europes-supercomputer-supply-chain-with-new-factory-in-czech-republic.html)* (místo tutorialu).
 {{% /blocks/section %}}
 {{% blocks/section %}}
 Informace pro přednášející
