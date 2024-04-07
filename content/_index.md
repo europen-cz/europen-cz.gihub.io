@@ -8,8 +8,8 @@ description: Jarní konference EurOpen.CZ 20. až 22. května 2024 v Kutné Hoř
 <a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
   Program konference
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-2">
-  Přihlásit se - v přípravě
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://form.simpleshop.cz/8ozyW/">
+  Přihlásit se
 </a>
 <p class="lead mt-3 mb-3">Z úvodníku předsedy: ...Po sugestivní přednášce Martina Papika o vodním chlazení zazněl návrh:
 „Tak se na to přijeďte podívat!“ -- a tím bylo jasno, že v roce 2024 jede EurOpen do Kutné Hory. Je ostatně známo, že střední Čechy dlouhodobě zanedbáváme, a tak byl nejvyšší čas s tím něco udělat. Ještě téhož dne se sešly návrhy dalších sekcí...<a href="#td-block-4">celý úvodník</a> </p>
@@ -23,7 +23,13 @@ Konference EurOpen.CZ proběhne od pondělí 20. května do středy 22. května 
 {{% blocks/section %}}
 Jak se přihlásit na konferenci
 {.h1}
-**V brzké době bude zveřejněna pozvánka a otevřena přihláška.**
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://europen.zcu.cz/Anot/56/56poz.pdf">
+  Pozvánka (PDF)
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/8ozyW/">
+  Přihlásit se
+</a>
 
 Struktura připraveného programu:
 - *Interaktivní prostředí typu Jupyter Notebooks*, živé výpočetní prostředí ve formě dokumentu šikovně propojeného s kódem, přístup  k velkému výpočetnímu výkonu, GPU computing, nástroj pro otevřenou vědu, přenositelnost, opakovatelnost, notebook v GIT. Základní představení [Jupyter notebooků](https://jupyter.org/) a popis konkrétních využití v praxi (kyberbezpečnost, výpočetní chemie a vědecké workflow).
@@ -70,6 +76,14 @@ Ve středu neproběhne obvyklý tutorial, ale místo něj vlastně důvod, proč
 Jsme zkrátka rádi, že Vás můžeme pozvat na další konferenci. Posbírejte kolegy, známé, a přijeďte. Těšíme se na vás!
 
 Zdeněk Šustr
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://europen.zcu.cz/Anot/56/56poz.pdf">
+  Pozvánka (PDF)
+</a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/8ozyW/">
+  Přihlásit se
+</a>
+
 {{% /blocks/section %}}
 
 {{< blocks/section color="white" >}}
