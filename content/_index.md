@@ -5,12 +5,12 @@ description: Jarní konference EurOpen.CZ 20. až 22. května 2024 v Kutné Hoř
 ---
 
 {{< blocks/cover title="Kutná Hora květen 2024" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
-  Program konference
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://57.europen.cz">
+Přejít na konferenci jaro 2025
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://form.simpleshop.cz/8ozyW/">
-  Přihlásit se
-</a>
+<p class="lead mt-3 mb-3 fw-bold">
+Toto je archivní stránka proběhlé konference v roce 2024.
+</p>
 <p class="lead mt-3 mb-3">Z úvodníku předsedy: ...Po sugestivní přednášce Martina Papika o vodním chlazení zazněl návrh:
 „Tak se na to přijeďte podívat!“ -- a tím bylo jasno, že v roce 2024 jede EurOpen do Kutné Hory. Je ostatně známo, že střední Čechy dlouhodobě zanedbáváme, a tak byl nejvyšší čas s tím něco udělat. Ještě téhož dne se sešly návrhy dalších sekcí...<a href="#td-block-4">celý úvodník</a> </p>
 
@@ -18,7 +18,7 @@ description: Jarní konference EurOpen.CZ 20. až 22. května 2024 v Kutné Hoř
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Konference EurOpen.CZ proběhne od pondělí 20. května do středy 22. května 2024 v [Hotelu Mědínek](https://www.medinek.cz/) v centru Kutné Hory.
+Toto je archivní stránka konference EurOpen.CZ která proběhla od pondělí 20. května do středy 22. května 2024 v [Hotelu Mědínek](https://www.medinek.cz/) v centru Kutné Hory.
 {{% /blocks/lead %}}
 {{% blocks/section %}}
 Jak se přihlásit na konferenci
